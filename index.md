@@ -1,7 +1,7 @@
 ## Markdown
 #### Syntax Guides
-   * [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
-   * [新的语法糖介绍](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
+   * [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)  
+   * [新的语法糖介绍](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
 
 ## SSH
 #### Guides

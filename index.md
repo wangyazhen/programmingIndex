@@ -15,4 +15,4 @@
 #### Problems
    * [修改git提交方式为**ssh**][in-link-git-0]
    
-[in-link-git-0]: /gitProblems.md    
+[in-link-git-0]: /gitProblems.md#修改git提交方式为ssh    
